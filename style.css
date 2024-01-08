@@ -8,7 +8,7 @@
     width: 100%;
     min-height: 100vh;
     padding-bottom: 50px;
-    background-color: #81ecec;
+    background: url("https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     display: flex;
     flex-wrap: wrap;
 }
