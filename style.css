@@ -17,7 +17,7 @@
     position: fixed;
     right: 10px;
     top: 10px;
-    background-color: #2d3436;
+    background-color: #353c40;
     color: white;
     padding: 10px;
     border: 0;
@@ -35,7 +35,7 @@
 
 .tool {
     width: 100%;
-    background-color: #2d3436;
+    background-color: #353c40;
     color: white;
     padding: 5px;
     display: flex;
@@ -54,6 +54,8 @@
     resize: none;
     padding: 10px;
     font-size: 18px;
+    background: #2B2930;
+    color: #D2CBC9;
 }
 
 .note textarea:focus {
